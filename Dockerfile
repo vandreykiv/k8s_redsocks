@@ -1,4 +1,4 @@
-FROM debian:bullseye-slim
+FROM debian:jessie-slim
 
 MAINTAINER Vyacheslav Andreykiv <https://github.com/vandreykiv>
 
