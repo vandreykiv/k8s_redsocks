@@ -27,7 +27,7 @@ Use docker stop to halt the container. The iptables rules should be reversed. If
 iptables-save | grep -v REDSOCKS | iptables-restore
 ```
 
-To run it in K8s you can add additional container to your pod that will forward all traffic to proxy via proxysocks. Example can be found in `examples` directory.
+To run it in K8s you can add additional container to your pod that will forward all traffic to proxy via redsocks. Example can be found in `examples` directory.
 
 ## Build
 Build the image with `docker build -t <tag> .`.
