@@ -15,7 +15,6 @@ spec:
         capabilities:
           add:
             - NET_ADMIN
-        privileged: true
     - name: busybox
       image: yauritux/busybox-curl
       command:
