@@ -2,6 +2,7 @@
 
 [![Image size](https://img.shields.io/docker/image-size/vandreykiv/redsocks/latest.svg)](https://hub.docker.com/r/vandreykiv/redsocks/)
 [![Docker pulls](https://img.shields.io/docker/pulls/vandreykiv/redsocks.svg)](https://hub.docker.com/r/vandreykiv/redsocks/)
+[![Docker build](https://img.shields.io/docker/cloud/build/vandreykiv/redsocks)](https://hub.docker.com/r/vandreykiv/redsocks/)
 
 ## Description
 
